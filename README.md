@@ -1,4 +1,4 @@
-# Draw Your Own Hats & Jewelry in Real-Time AR
+# Draw in Real-Time AR
 
 Create interactive augmented reality accessories directly on your face using a live webcam feed. This application uses MediaPipe Face Mesh for high-precision tracking and OpenCV for rendering.
 
